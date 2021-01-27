@@ -1,0 +1,8 @@
+prefix=/home/jonny/veg_picker/devel
+
+Name: esp_images
+Description: Description of esp_images
+Version: 0.0.0
+Cflags: -I/home/jonny/veg_picker/src/esp_images/include
+Libs: -L${prefix}/lib -lesp_images
+Requires: roscpp std_msgs cv_bridge

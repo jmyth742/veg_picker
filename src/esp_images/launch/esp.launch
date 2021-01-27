@@ -1,0 +1,3 @@
+<launch>
+<node pkg="esp_images" type="esp_images" name="esp_cam"
+</launch>

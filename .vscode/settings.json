@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
+    },
+    "python.pythonPath": "/usr/bin/python3"
+}

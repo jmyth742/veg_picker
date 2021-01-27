@@ -1,0 +1,8 @@
+prefix=/home/jonny/veg_picker/devel
+
+Name: rosserial_mbed
+Description: Description of rosserial_mbed
+Version: 0.9.1
+Cflags: -I/home/jonny/veg_picker/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
